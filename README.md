@@ -1,2 +1,2 @@
 # web-development
-Repository for fall 2017's web class.
+Repository for fall 2017's Web Design and Implementation class.
